@@ -1,0 +1,3 @@
+<LinearLayout android:layout_gravity="center|top" android:layout_width="wrap_content" android:layout_height="wrap_content">
+<Button android:textSize="21.0sp" android:textColor="TEXT HEX COLOR" android:layout_gravity="center|top" android:id="@id/shortcut" android:background="@drawable/bg_texture" android:layout_width="122.0dip" android:layout_height="43.0dip" android:layout_marginTop="10.0dip" android:text="YOUR TEXT" android:textAllCaps="false" />
+</LinearLayout>
